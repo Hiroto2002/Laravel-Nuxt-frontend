@@ -1,0 +1,4 @@
+<template>
+    <LayoutsHeader/>
+    <LayoutsFooter/>
+</template>
